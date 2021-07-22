@@ -1,4 +1,4 @@
-<img src="images/immer-logo.svg" height="200px" align="right"/>
+<img src="/instapp.jpg" height="200px" align="right"/>
 
 # Instapp
 
