@@ -1,4 +1,4 @@
-<img src="/instapp.jpg" height="200px" align="right"/>
+<img src="/instapp.png" height="200px" align="right"/>
 
 # Instapp
 
